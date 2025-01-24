@@ -51,6 +51,7 @@ flask run
 
 # Set Up the Frontend :
 cd frontend
+
 npm install
 
 # Start the frontend development server:

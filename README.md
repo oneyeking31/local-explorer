@@ -49,9 +49,9 @@ Note: If you're using the .env.example file as a template, rename it to .env and
 # 4. Run the Backend Server
 flask run
 
-Set Up the Frontend :
+# Set Up the Frontend :
 cd frontend
 npm install
 
-Start the frontend development server:
+# Start the frontend development server:
 npm run serve

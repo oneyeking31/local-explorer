@@ -36,19 +36,17 @@ cd local-explorer
 ```
 2. Set Up Environment Variables
 Create a .env file in the root directory and add your API keys:
-Copy
-# .env
 OPENAI_API_KEY=your_openai_api_key_here
 GOOGLE_MAPS_API_KEY=your_google_maps_api_key_here
 
 Note: If you're using the .env.example file as a template, rename it to .env and replace the placeholder values with your actual API keys.
 
 
-Install Python Dependencies
+# Install Python Dependencies
 **
 🛠️ pip install -r requirements.txt 🛠️
 
-4. Run the Backend Server
+# 4. Run the Backend Server
 flask run
 
 Set Up the Frontend :
